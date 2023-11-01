@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: b9b1603ae37a6dc42bb133717136cc8f
+timeCreated: 1514961910
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: left
+    100002: Tractor
+    100004: //RootNode
+    100006: Tractor_MD
+    100008: Tractor_MD__1_
+    100010: Tractor_Red_Body
+    100012: Tractor_Red_Glass
+    100014: Tractor_Red_Interior
+    100016: Tractor_Red_Wheel_B_L
+    100018: Tractor_Red_Wheel_B_R
+    100020: Tractor_Red_Wheel_F_L
+    100022: Tractor_Red_Wheel_F_R
+    100024: Trailers
+    100026: Trailers_Wheels_L
+    100028: Trailers_Wheels_R
+    400000: left
+    400002: Tractor
+    400004: //RootNode
+    400006: Tractor_MD
+    400008: Tractor_MD__1_
+    400010: Tractor_Red_Body
+    400012: Tractor_Red_Glass
+    400014: Tractor_Red_Interior
+    400016: Tractor_Red_Wheel_B_L
+    400018: Tractor_Red_Wheel_B_R
+    400020: Tractor_Red_Wheel_F_L
+    400022: Tractor_Red_Wheel_F_R
+    400024: Trailers
+    400026: Trailers_Wheels_L
+    400028: Trailers_Wheels_R
+    2300000: Tractor_Red_Body
+    2300002: Tractor_Red_Glass
+    2300004: Tractor_Red_Interior
+    2300006: Tractor_Red_Wheel_B_L
+    2300008: Tractor_Red_Wheel_B_R
+    2300010: Tractor_Red_Wheel_F_L
+    2300012: Tractor_Red_Wheel_F_R
+    2300014: Trailers
+    2300016: Trailers_Wheels_L
+    2300018: Trailers_Wheels_R
+    3300000: Tractor_Red_Body
+    3300002: Tractor_Red_Glass
+    3300004: Tractor_Red_Interior
+    3300006: Tractor_Red_Wheel_B_L
+    3300008: Tractor_Red_Wheel_B_R
+    3300010: Tractor_Red_Wheel_F_L
+    3300012: Tractor_Red_Wheel_F_R
+    3300014: Trailers
+    3300016: Trailers_Wheels_L
+    3300018: Trailers_Wheels_R
+    4300000: Tractor_Red_Body
+    4300002: Tractor_Red_Glass
+    4300004: Tractor_Red_Interior
+    4300006: Tractor_Red_Wheel_B_L
+    4300008: Tractor_Red_Wheel_B_R
+    4300010: Tractor_Red_Wheel_F_L
+    4300012: Tractor_Red_Wheel_F_R
+    4300014: Trailers
+    4300016: Trailers_Wheels_L
+    4300018: Trailers_Wheels_R
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

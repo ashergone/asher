@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 760d162ee64c432fa3d0894190787333
+timeCreated: 1662478437
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Aero"
+  fontNames:
+  - Aero
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
